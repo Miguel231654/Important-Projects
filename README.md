@@ -38,3 +38,29 @@ Development of a predictive model of CRISP-DM to identify malicious patterns and
 * **Regression Model:** Developed a Linear Regression model to predict session duration
 ## My Role
 Sole developer responsible for data preprocessing, feature engineering, model training, evaluation, and visualizations.
+
+
+
+# Hospital Database Fundamentals Project (SQL & ER Modeling)
+
+## Tech Stack & Tools
+* **Database Management System:** MySQL
+* **Management Tool:** MySQL Workbench
+* **Design Phases:** Conceptual ER, Logical Dataset, Physical Model (3rd Normal Form), and DDL/DML implementation.
+
+## Key Project Components
+* **Database Design (ER Modeling):** Defined 6 strong entities (`Departments`, `Treatments`, `Staff`, `Patients`, `Appointments`, and `Rooms`), establishing primary keys, foreign keys, cardinalities, and total/partial participation constraints.
+* **Data Definition (DDL):** Created the relational schema enforcing referential integrity constraints, primary keys, and foreign keys.
+* **Data Manipulation (DML):** Populated relations with test data (tuples per relation) and performed CRUD operations.
+* **Advanced SQL Queries:** Executed queries involving filtering (`WHERE`), updates (`UPDATE`), insertions (`INSERT`), deletions (`DELETE`), aggregate functions (`COUNT`), sorting (`ORDER BY`), and table joins.
+
+## My Role
+Sole developer responsible for the end-to-end database design, normalization, SQL script writing, and query execution for the hospital system.
+
+* *All of the full project reports are available as PDF in this repository.*
+
+
+
+
+
+
